@@ -105,7 +105,7 @@ function Header(props) {
                     onClick={SignOutClick}
                     >
                     <SignOutIcon />
-                    <Typography className={classes.item_header}>SignOut</Typography>
+                    <Typography className={classes.item_header}>hi ae</Typography>
                 </IconButton>
             </Grid>
         </Grid>
